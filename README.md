@@ -4,4 +4,3 @@ Integrantes:
  - Jorge Zapata
  - Robert García
  
- Para ejecutar el proyecto en la clase Application.java darle Run as: java application
